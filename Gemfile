@@ -15,3 +15,4 @@ gem "tzinfo-data", platforms: [:mswin, :mingw]
 
 # Tests
 gem "jasmine"
+gem "coveralls", require: false

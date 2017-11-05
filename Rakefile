@@ -1,11 +1,11 @@
 # for editing the collection
-require 'mini_magick'
-require 'open-uri'
-require 'json'
+require "mini_magick"
+require "open-uri"
+require "json"
 
 # for tests
-require 'jasmine'
-load 'jasmine/tasks/jasmine.rake'
+require "jasmine"
+load "jasmine/tasks/jasmine.rake"
 
 @raw_filepath = File.expand_path("./../data/cards_raw.json", __FILE__)
 @dict_filepath = File.expand_path("./../data/cards_dictionary.json", __FILE__)
