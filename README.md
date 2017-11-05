@@ -1,7 +1,8 @@
 # Hearthstone Collection
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f98091993064511885c2661638e8114)](https://www.codacy.com/app/ceruleanlabs/hearthstone?utm_source=github.com&utm_medium=referral&utm_content=bergren2/hearthstone&utm_campaign=badger)
 [![Build Status](https://travis-ci.org/bergren2/hearthstone.svg?branch=master)](https://travis-ci.org/bergren2/hearthstone)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f98091993064511885c2661638e8114)](https://www.codacy.com/app/ceruleanlabs/hearthstone?utm_source=github.com&utm_medium=referral&utm_content=bergren2/hearthstone&utm_campaign=badger)
+[![Coverage Status](https://coveralls.io/repos/github/bergren2/hearthstone/badge.svg?branch=master)](https://coveralls.io/github/bergren2/hearthstone?branch=master)
 
 Well met!
 
