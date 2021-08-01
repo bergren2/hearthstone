@@ -49,12 +49,13 @@ GEM
       uber (~> 0.0.14)
     http_parser.rb (0.6.0)
     i18n (0.7.0)
-    jasmine (3.3.0)
-      jasmine-core (~> 3.3.0)
+    jasmine (3.8.0)
+      jasmine-core (~> 3.8.0)
       phantomjs
       rack (>= 1.2.1)
       rake
-    jasmine-core (3.3.0)
+      webrick
+    jasmine-core (3.8.0)
     json (2.1.0)
     kramdown (1.15.0)
     listen (3.0.8)
@@ -108,12 +109,12 @@ GEM
     padrino-support (0.12.8.1)
       activesupport (>= 3.1)
     phantomjs (2.1.1.0)
-    rack (1.6.11)
+    rack (1.6.13)
     rack-livereload (0.3.16)
       rack
     rack-test (0.7.0)
       rack (>= 1.0, < 3)
-    rake (12.3.1)
+    rake (13.0.6)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -138,6 +139,7 @@ GEM
     uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    webrick (1.7.0)
     xpath (2.1.0)
       nokogiri (~> 1.3)
 
